@@ -7,7 +7,7 @@
 
 <hr>
 
-This repository contains JavaScript solutions of Combate à Fraude's SDKs.
+This repository contains JavaScript solutions and [documentation](https://github.com/combateafraude/JavaScript/wiki) of Combate à Fraude's SDKs.
 
 | SDK | Goal | Example | Integrating |
 | :--: | :--: | :--: | :--: |
