@@ -11,5 +11,5 @@ This repository contains JavaScript solutions and [documentation](https://github
 
 | SDK | Goal | Example | Integrating |
 | :--: | :--: | :--: | :--: |
-| DocumentDetector        | Capture RG and CNH with assurance and great quality for OCR | soon | soon |
-| PassiveFaceLiveness     | Camera that capture a reliable selfie using AI | soon | soon |
+| DocumentDetector        | Capture RG and CNH with assurance and great quality for OCR | soon | https://github.com/combateafraude/JavaScript/wiki/DocumentDetector |
+| PassiveFaceLiveness     | Camera that capture a reliable selfie using AI | soon | https://github.com/combateafraude/JavaScript/wiki/PassiveFaceLiveness |
