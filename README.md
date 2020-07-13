@@ -7,9 +7,6 @@
 
 <hr>
 
-This repository contains JavaScript solutions and [documentation](https://github.com/combateafraude/JavaScript/wiki) of Combate à Fraude's SDKs.
-
-| SDK | Goal | Example | Integrating |
-| :--: | :--: | :--: | :--: |
-| DocumentDetector        | Capture RG and CNH with assurance and great quality for OCR | soon | [wiki](https://github.com/combateafraude/JavaScript/wiki/DocumentDetector) |
-| PassiveFaceLiveness     | Camera that capture a reliable selfie using AI | soon | [wiki](https://github.com/combateafraude/JavaScript/wiki/PassiveFaceLiveness) |
+## [Releases](https://repo.combateafraude.com)
+## [Documentation](https://docs.combateafraude.com/docs/mobile/javascript/getting-started/)
+## [Demonstration](https://www.youtube.com/watch?v=HdTzIvI0FRc)
