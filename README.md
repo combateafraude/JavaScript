@@ -7,6 +7,4 @@
 
 <hr>
 
-## [Releases](https://repo.combateafraude.com)
-## [Documentation](https://docs.combateafraude.com/docs/mobile/javascript/getting-started/)
-## [Demonstration](https://www.youtube.com/watch?v=HdTzIvI0FRc)
+- [Documentação e últimas versões](https://docs.combateafraude.com/docs/mobile/javascript/getting-started/)
